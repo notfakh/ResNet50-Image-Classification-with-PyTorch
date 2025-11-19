@@ -61,7 +61,7 @@ python image_classifier.py
 - Downloads ResNet50 model (~100MB)
 - Downloads ImageNet class labels (~50KB)
 - Both are cached for future use
-
+Donwload here: [Google Drive](https://drive.google.com/drive/folders/1dW2szi0U2MRwFd95Fq5989BKZOwjsx9l?usp=sharing)
 **Output Example:**
 ```
 Loading pre-trained ResNet50 model...
